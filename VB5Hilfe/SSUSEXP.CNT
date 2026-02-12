@@ -1,0 +1,103 @@
+:Base ssusexp.HLP
+:Title Microsoft Visual SourceSafe Help Contents
+1 Visual SourceSafe Introduction
+2 What's New=ss_WhatsNew@ssusexp.hlp>main
+2 Using Visual SourceSafe 4.0a with 5.0=UsingV4
+2 Copyright Information=ssidxCopyright>low
+1 Using Visual SourceSafe
+2 Getting Started
+3 Project-Oriented Version Control=General>main
+3 Installing Visual SourceSafe=SS_RunningSourceSafeLocally>main
+3 Getting Started with Visual SourceSafe=SS_GettingStarted>main
+3 Configuring Visual SourceSafe Explorer=SS_ConfiguringExplorer>main
+3 Using Visual SourceSafe Commands=UsingCommands>main
+3 Changing Your Visual SourceSafe Password=HowChangePassword>main
+3 Controlling the Display of Command Dialog Boxes=SS_AvoidingCommandDialogs>main
+3 Visual SourceSafe Naming Syntax, Conventions, and Limitations=NamingSyntax>main
+1 Visual SourceSafe Concepts
+2 Project-Oriented Version Control=General>main
+2 Understanding Visual SourceSafe Projects=Concept_project>main
+2 Understanding the Working Folder=Concept_workingDir>main
+2 Adding Files to the Visual SourceSafe Database=HowAddingFiles>main
+2 Getting, Checking In, Checking Out, and Viewing Files=Concept_Retrieve>main
+2 Tracking and Labeling Versions of Files and Projects=Concept_version>main
+2 Showing Differences Between Projects=IDD_PROJ_DIFF
+2 Showing Differences Between Files=IDD_FILE_DIFF
+2 Sharing Files=Concept_Share>main
+2 Branching Files=Concept_Branching>main
+2 Merging Files and Projects=Concept_Merging>main
+2 The Visual Merge=IDD_VMerge>main
+2 Merging Options=SS_MergeOptions>main
+2 Resolving Merge Conflicts=SS_ResolvingConflicts>main
+2 Creating Reports=Concept_Reporting>main
+2 Visual SourceSafe Web Features=VSS_Web
+2 Cloaking Visual SourceSafe Projects=VSS_Cloaking
+1 Finetuning Visual SourceSafe
+2 Using Multiple Check Out of Files=SS_MultipleCheckouts>main
+2 Optimizing Visual SourceSafe Performance=SS_OptimizingPerformance>main
+2 Modifying Files: The Read-Only Flag=Concept_ReadOnly>main
+2 Setting the File Modification Date/Time=Concept_FileDateTime>main
+2 Setting the File Type: Text and Binary Files=Concept_TextBinary>main
+2 Customizing the SS.INI and SRCSAFE.INI Files=Ini_file>main
+2 Using Project Headers in .INI Files=SS_ProjectHeader>main
+2 Setting the Working Folder in SS.INI=SS_TheWorkingFolderinYouriniFiles>main
+2 Keyword Expansion=Concept_keywords>main
+2 HTML Keyword Expansion=Concept_WebKeywords
+2 Columnar Formatting and Binary Text=SS_ColumnarFormatting>main
+2 Formatting the History and Log Keywords=SS_FormattingHistory>main
+2 Using Shadow Folder=Concept_ShadowDir>main
+1 Working on the Command Line
+2 Using the Visual SourceSafe Command Line=cmdline>main
+2 Starting Visual SourceSafe from the Command Line=SS_CommandLineStart>main
+2 Entering Comments on the Command Line=Cmdline_Comment>main
+2 Command Line Exit Codes=Concept_ExitCodes>main
+2 Using Alternate Commands on the Command Line=Concept_AltCmdLineWords>main
+2 Writing Batch Files=SS_WritingBatchFiles>main
+1 Commands and Initialization Variables
+2 Commands=ssCommandSummary@ssusexp.hlp>main
+2 Command-Line Commands=ssCmdCommandSummary@ssusexp.hlp>main
+2 Command-Line Options=ssCommandOptionSummary@ssusexp.hlp>main
+2 Initialization Variables=ssInitVarSummary@ssusexp.hlp>main
+1 Reference Information
+2 Troubleshooting=Concept_troubleshooting>main
+2 Visual SourceSafe Explorer=Interface>main
+3 File List=FileList>main
+3 File Pane=SS_FilePane>main
+3 Project List=ProjectTree>main
+3 Project Pane=SS_ProjectPane>main
+3 Results Window=CommandResults>main
+3 Status Bar=Concept_StatusBar>main
+1 Visual SourceSafe Dialog Boxes
+2 Visual Merge=IDD_VMerge>main
+2 History Details=IDD_HISTORY_DETAILS
+2 History of File=IDD_FILE_HISTORY>main
+2 History of Project=IDD_PROJ_HISTORY>main
+2 Project Difference=IDD_PROJ_DIFF>main
+2 File Difference=IDD_VDIFF2>main
+2 Login=IDD_LOGIN>main
+2 Options Dialog Box
+3 Command Dialogs Tab=IDD_OPTIONS_CMDDLGS>main
+3 Command-Line Options Tab=IDD_OPTIONS_CMDLINE>main
+3 Difference Tab=IDD_OPTIONS_VIEWDIFF_PAGE
+3 File Types Tab=IDD_FILE_TYPES>main
+3 General Tab=IDD_OPTIONS_GENERAL>main
+3 Local Files Tab=IDD_OPTIONS_LOCALFILES>main
+3 View Tab=IDD_OPTIONS_VIEW>main
+3 Warnings Tab=IDD_OPTIONS_WARNINGS>main
+2 Properties Dialog Box
+3 Checkout Status Tab=IDD_CHECKOUT_STATUS>main
+3 Deleted Items Tab=IDD_REMOVED>main
+3 General File Properties Tab=IDD_FILE_PROPS>main
+3 General Project Properties Tab=IDD_PROJ_PROPS>main
+3 Links Tab=IDD_LINKS>main
+3 Paths Tab=IDD_PATHS>main
+1 References
+2 Glossary=SS_Glossary>main
+2 Visual SourceSafe Keyboard Guide=KeyHelp>main
+2 Visual SourceSafe Naming Syntax and Conventions=NamingSyntax>main
+2 Accessibility Information
+3 Accessibility for People with Disabilities=disability>main
+1 Technical Support
+2 Visual SourceSafe Technical Support=PSSXWhenYouHaveaQuestion@SSUSPSS.HLP>main
+1 World Wide Web Site
+2 Visual SourceSafe Web Site=!EF("http://www.microsoft.com/ssafe","",1):Exit()

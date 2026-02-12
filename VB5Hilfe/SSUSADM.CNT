@@ -1,0 +1,92 @@
+:Base ssusadm.hlp
+:Title Microsoft Visual SourceSafe Administrator Help
+1 Using Visual SourceSafe Administrator
+2 Visual SourceSafe Administrator=MainScreen>main
+2 Visual SourceSafe Security Access Rights=Rights>main
+1 Basic Administrator Operations
+2 Adding a User=IDD_ADM_ADDUSER>main
+2 Administering Visual SourceSafe=SS_Administrator>main
+2 Analyzing the DATA Folder=SS_DATA_Analyzing>main
+2 Backing Up Visual SourceSafe=SS_Backups>main
+2 Archiving Your Database=SSARC>main
+2 Restoring Your Archived Database=SSRESTOR>main
+2 Changing a User (or Admin) Password=IDD_ADM_CHANGEPASSWORD>main
+2 Cleaning the TEMP Folder=SS_TEMP_Cleaning>main
+2 Creating a Shadow Folder=SS_CreatingaShadowFolder>main
+2 Customizing the SS.INI and SRCSAFE.INI Files=INI_File>main
+2 Deleting a User=IDD_ADM_DELETEUSER>main
+2 Editing a User=IDD_ADM_EDITUSER>main
+2 Enabling Keyword Expansion=SS_KeywordExpansion>main
+2 Installing Visual SourceSafe=Installation>main
+2 Maintaining the SRCSAFE.INI File=SS_SRCSAFEINI_File>main
+2 Undoing Checkouts=UndoingCheckouts>main
+2 Setting up a Web Site Project=VSS_WebAdmin
+2 Locking the Visual SourceSafe Database=ADM_LOCKOUT
+1 Administrator Command and Utility Summary
+2 Commands
+3 About Administrator=IDD_About>main
+3 Add User=IDD_ADM_ADDUSER>main
+3 Rights Assignments for User=IDD_ADM_ASSIGNMENTSFORUSER>main
+3 Change Password=IDD_ADM_CHANGEPASSWORD>main
+3 Copy User Rights=IDD_ADM_COPYRIGHTS>main
+3 Delete User=IDD_ADM_DELETEUSER>main
+3 Edit User=IDD_ADM_EDITUSER>main
+3 Exit=ID_APP_EXIT>main
+3 Font=ID_SETUP_FONT>main
+3 Help=ID_HELP>main
+3 Lock SourceSafe Database=ID_ADM_LOCK_DATABASE
+3 Open SourceSafe Database=ID_FILE_OPENSSDB
+3 Options=ID_ADM_TOOLS_OPTIONS>main
+3 Rights by Project=IDD_ADM_RIGHTSBYPROJECT>main
+3 Search for Help on=ID_HELP
+3 Technical Support=ID_Help
+2 Initialization Variables
+3 Check_Hyperlink_Masks=Ini_CheckHyperlinkMasks
+3 Data_Path=Ini_DataPath>main
+3 Database_Name=Ini_DatabaseName>main
+3 Delete_Local=Ini_DeleteLocal
+3 Deploy_Host_Local=Ini_DeployHostLocal
+3 Deploy_Path=Ini_DeployPath
+3 Deploy_Proxy=Ini_DeployProxy
+3 External_Link_File=Ini_ExternalLinkFile
+3 Journal_File=Ini_JournalFile>main
+3 Keyword_Masks=Ini_KeywordMasks>main
+3 Lock_Mode=Ini_LockMode>main
+3 Multiple_Checkouts=Ini_MultipleCheckouts>main
+3 Shadow=Ini_Shadow>main
+3 Shadow_DosName=Ini_ShadowDosName>main
+3 Shadow_EOL=Ini_ShadowEOL>main
+3 Shadow_Extension=Ini_ShadowExtension>main
+3 Shadow_ReadOnly=Ini_ShadowReadOnly>main
+3 Shadow_SetTie=Ini_ShadowSetTime>main
+3 SiteMap=Ini_SiteMap
+3 Temp_Path=Ini_TempPath
+3 Update_No_Change=Ini_UpdateNoChange
+3 URL=Ini_URL
+3 Use_Network_Name=Ini_UseNetworkName>main
+3 Users_Txt=Ini_UsersTxt>main
+3 Virtual_Root=INI_VirtualRoot
+3 Web_Default_Filename=INI_WebDefaultFilename
+2 Utilities
+3 ANALYZE.EXE=SS_ANALYZE>main
+3 DDCONV.EXE=SS_DDCONV>main
+3 DELTA_SS.EXE=SS_DELTA_SS>main
+3 MKSS.EXE=SS_MKSS>main
+3 PVCS_SS.EXE=SS_PVCS_SS>main
+3 SS.EXE=SS_SSWCL>main
+3 SSARC.EXE=SSARC>main
+3 SSLOGIN.EXE=SS_SSLOGIN>main
+3 SSRESTOR.EXE=SSRESTOR>main
+3 TESTLOCK.EXE=SS_TESTLOCK>main
+3 UNLOCK.EXE=SS_UNLOCK>main
+3 UPDINI.EXE=SS_UPDINI>main
+1 Reference Information
+2 Glossary=SS_Glossary>main
+2 Visual SourceSafe Naming Conventions=Username>main
+2 Visual SourceSafe Administrator Keyboard Guide=KeyHelp>main
+1 Accessibility Information
+2 Accessibilty for People with Disabilities=disability>main
+1 Technical Support
+2 Visual SourceSafe Technical Support=PSSXWhenYouHaveaQuestion@SSUSPSS.HLP>main
+1 World-Wide Web Site
+2 Visual SourceSafe Web Site=!EF("http://www.microsoft.com/ssafe","",1):Exit()

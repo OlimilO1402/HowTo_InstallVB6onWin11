@@ -1,0 +1,219 @@
+:Base RepVB.hlp
+:Index Repository Add-in Reference =RepVB.hlp
+:Link Repostry.hlp
+1 Repository Add-in Objects
+2 RepVB Object
+3 RepVB Object=reobjRepVB@RepVB.hlp
+3 RepVB ConnectAddInEvents Method=remthRepVBConnectAddInEvents@RepVB.hlp
+3 RepVB ConnectComponentEvents Method=remthRepVBConnectComponentEvents@RepVB.hlp
+3 RepVB ConnectControlEvents Method=remthRepVBConnectControlEvents@RepVB.hlp
+3 RepVB ConnectProjectEvents Method=remthRepVBConnectProjectEvents@RepVB.hlp
+3 RepVB ConnectReferenceEvents Method=remthRepVBConnectReferenceEvents@RepVB.hlp
+3 RepVB ConnectRepository Method=remthRepVBConnectRepository@RepVB.hlp
+3 RepVB DisconnectAddInEvents Method=remthRepVBDisconnectAddInEvents@RepVB.hlp
+3 RepVB DisconnectComponentEvents Method=remthRepVBDisconnectComponentEvents@RepVB.hlp
+3 RepVB DisconnectControlEvents Method=remthRepVBDisconnectControlEvents@RepVB.hlp
+3 RepVB DisconnectProjectEvents Method=remthRepVBDisconnectProjectEvents@RepVB.hlp
+3 RepVB DisconnectReferenceEvents Method=remthRepVBDisconnectReferenceEvents@RepVB.hlp
+3 RepVB GetMDOObject Method=remthRepVBGetMDOObject@RepVB.hlp
+3 RepVB GetRepository Method=remthRepVBGetRepository@RepVB.hlp
+3 RepVB GetVBObject Method=remthRepVBGetVBObject@RepVB.hlp
+3 RepVB IsSynchronizing Property=reproRepVBIsSynchronizing@RepVB.hlp
+3 RepVB SynchronizeRepository Method=remthRepVBSynchronizeRepository@RepVB.hlp
+3 Synchronizing the Repository=reconSynchronizingtheRepository@RepVB.hlp
+2 MdoAddInEvents Object
+3 MdoAddInEvents Object=reobjMdoAddInEvents@RepVB.hlp
+3 MdoAddInEvents RepositoryInvalid Method=remthMdoAddInEventsRepositoryInvalid@RepVB.hlp
+3 MdoAddInEvents Shutdown Method=remthMdoAddInEventsShutdown@RepVB.hlp
+2 MdoComponentEvents Object
+3 MdoComponentEvents Object=reobjMdoComponentEvents@RepVB.hlp
+3 MdoComponentEvents ObjectAdded Method=remthMdoComponentEventsObjectAdded@RepVB.hlp
+3 MdoComponentEvents ObjectChangedFileName Method=remthMdoComponentEventsObjectChangedFileName@RepVB.hlp
+3 MdoComponentEvents ObjectRemoved Method=remthMdoComponentEventsObjectRemoved@RepVB.hlp
+3 MdoComponentEvents ObjectRenamed Method=remthMdoComponentEventsObjectRenamed@RepVB.hlp
+3 MdoComponentEvents ObjectSynchronized Method=remthMdoComponentEventsObjectSynchronized@RepVB.hlp
+2 MdoControlEvents Object
+3 MdoControlEvents Object=reobjMdoControlEvents@RepVB.hlp
+3 MdoControlEvents ObjectAdded Method=remthMdoControlEventsObjectAdded@RepVB.hlp
+3 MdoControlEvents ObjectRemoved Method=remthMdoControlEventsObjectRemoved@RepVB.hlp
+3 MdoControlEvents ObjectRenamed Method=remthMdoControlEventsObjectRenamed@RepVB.hlp
+3 MdoControlEvents ObjectSynchronized Method=remthMdoControlEventsObjectSynchronized@RepVB.hlp
+2 MdoProjectEvents Object
+3 MdoProjectEvents Object=reobjMdoProjectEvents@RepVB.hlp
+3 MdoProjectEvents ObjectAdded Method=remthMdoProjectEventsObjectAdded@RepVB.hlp
+3 MdoProjectEvents ObjectChangedFileName Method=remthMdoProjectEventsObjectChangedFileName@RepVB.hlp
+3 MdoProjectEvents ObjectRemoved Method=remthMdoProjectEventsObjectRemoved@RepVB.hlp
+3 MdoProjectEvents ObjectRenamed Method=remthMdoProjectEventsObjectRenamed@RepVB.hlp
+3 MdoProjectEvents ObjectSynchronized Method=remthMdoProjectEventsObjectSynchronized@RepVB.hlp
+2 MdoReferenceEvents Object
+3 MdoReferenceEvents Object=reobjMdoReferenceEvents@RepVB.hlp
+3 MdoReferenceEvents ObjectAdded Method=remthMdoReferenceEventsObjectAdded@RepVB.hlp
+3 MdoReferenceEvents ObjectRemoved Method=remthMdoReferenceEventsObjectRemoved@RepVB.hlp
+1 MDO Model Automation Reference
+2 MDO Model Automation Objects=reconMDOModelAutomationObjects@RepVB.hlp
+2 Accessing Automation Object Members=reconAccessingAutomationObjectMembers@RepVB.hlp
+2 MdoClassModule Object
+3 MdoClassModule Object=reobjMdoClassModule@RepVB.hlp
+3 MdoClassModule Description Property=reproMdoClassModuleDescription@RepVB.hlp
+3 MdoClassModule FileName Property=reproMdoClassModuleFileName@RepVB.hlp
+3 MdoClassModule MdoComponentProject Collection=recolMdoClassModuleMdoComponentProject@RepVB.hlp
+3 MdoClassModule TimeStamp Property=reproMdoClassModuleTimeStamp@RepVB.hlp
+2 MdoControl Object
+3 MdoControl Object=reobjMdoControl@RepVB.hlp
+3 MdoControl ClassName Property=reproMdoControlClassName@RepVB.hlp
+3 MdoControl Description Property=reproMdoControlDescription@RepVB.hlp
+3 MdoControl Index Property=reproMdoControlIndex@RepVB.hlp
+3 MdoControl MdoControlContainer Collection=recolMdoControlMdoControlContainer@RepVB.hlp
+3 MdoControl MdoControls Collection=recolMdoControlMdoControls@RepVB.hlp
+3 MdoControl MdoISVControl Collection=recolMdoControlMdoISVControl@RepVB.hlp
+3 MdoControl ProgID Property=reproMdoControlProgID@RepVB.hlp
+2 MdoDesigner Object
+3 MdoDesigner Object=reobjMdoDesigner@RepVB.hlp
+3 MdoDesigner Description Property=reproMdoDesignerDescription@RepVB.hlp
+3 MdoDesigner FileName Property=reproMdoDesignerFileName@RepVB.hlp
+3 MdoDesigner MdoComponentProject Collection=recolMdoDesignerMdoComponentProject@RepVB.hlp
+3 MdoDesigner TimeStamp Property=reproMdoDesignerTimeStamp@RepVB.hlp
+2 MdoMDIForm Object
+3 MdoMDIForm Object=reobjMdoMDIForm@RepVB.hlp
+3 MdoMDIForm Description Property=reproMdoMDIFormDescription@RepVB.hlp
+3 MdoMDIForm FileName Property=reproMdoMDIFormFileName@RepVB.hlp
+3 MdoMDIForm MdoComponentProject Collection=recolMdoMDIFormMdoComponentProject@RepVB.hlp
+3 MdoMDIForm MdoControls Collection=recolMdoMDIFormMdoControls@RepVB.hlp
+3 MdoMDIForm TimeStamp Property=reproMdoMDIFormTimeStamp@RepVB.hlp
+2 MdoMSForm Object
+3 MdoMSForm Object=reobjMdoMSForm@RepVB.hlp
+3 MdoMSForm Description Property=reproMdoMSFormDescription@RepVB.hlp
+3 MdoMSForm FileName Property=reproMdoMSFormFileName@RepVB.hlp
+3 MdoMSForm MdoComponentProject Collection=recolMdoMSFormMdoComponentProject@RepVB.hlp
+3 MdoMSForm TimeStamp Property=reproMdoMSFormTimeStamp@RepVB.hlp
+2 MdoProject Object
+3 MdoProject Object=reobjMdoProject@RepVB.hlp
+3 MdoProject Containers Collection=recolMdoProjectContainers@RepVB.hlp
+3 MdoProject Description Property=reproMdoProjectDescription@RepVB.hlp
+3 MdoProject FileName Property=reproMdoProjectFileName@RepVB.hlp
+3 MdoProject MdoComponents Collection=recolMdoProjectMdoComponents@RepVB.hlp
+3 MdoProject MdoReferences Collection=recolMdoProjectMdoReferences@RepVB.hlp
+3 MdoProject TimeStamp Property=reproMdoProjectTimeStamp@RepVB.hlp
+2 MdoProjectRef Object
+3 MdoProjectRef Object=reobjMdoProjectRef@RepVB.hlp
+3 MdoProjectRef Description Property=reproMdoProjectRefDescription@RepVB.hlp
+3 MdoProjectRef FileName Property=reproMdoProjectRefFileName@RepVB.hlp
+3 MdoProjectRef MdoReferenceProject Collection=recolMdoProjectRefMdoReferenceProject@RepVB.hlp
+3 MdoProjectRef TimeStamp Property=reproMdoProjectRefTimeStamp@RepVB.hlp
+2 MdoPropertyPage Object
+3 MdoPropertyPage Object=reobjMdoPropertyPage@RepVB.hlp
+3 MdoPropertyPage Description Property=reproMdoPropertyPageDescription@RepVB.hlp
+3 MdoPropertyPage FileName Property=reproMdoPropertyPageFileName@RepVB.hlp
+3 MdoPropertyPage MdoComponentProject Collection=recolMdoPropertyPageMdoComponentProject@RepVB.hlp
+3 MdoPropertyPage MdoControls Collection=recolMdoPropertyPageMdoControls@RepVB.hlp
+3 MdoPropertyPage TimeStamp Property=reproMdoPropertyPageTimeStamp@RepVB.hlp
+2 MdoRelatedDocument Object
+3 MdoRelatedDocument Object=reobjMdoRelatedDocument@RepVB.hlp
+3 MdoRelatedDocument Description Property=reproMdoRelatedDocumentDescription@RepVB.hlp
+3 MdoRelatedDocument FileName Property=reproMdoRelatedDocumentFileName@RepVB.hlp
+3 MdoRelatedDocument MdoComponentProject Collection=recolMdoRelatedDocumentMdoComponentProject@RepVB.hlp
+3 MdoRelatedDocument TimeStamp Property=reproMdoRelatedDocumentTimeStamp@RepVB.hlp
+2 MdoResourceFile Object
+3 MdoResourceFile Object=reobjMdoResourceFile@RepVB.hlp
+3 MdoResourceFile Description Property=reproMdoResourceFileDescription@RepVB.hlp
+3 MdoResourceFile FileName Property=reproMdoResourceFileFileName@RepVB.hlp
+3 MdoResourceFile MdoComponentProject Collection=recolMdoResourceFileMdoComponentProject@RepVB.hlp
+3 MdoResourceFile TimeStamp Property=reproMdoResourceFileTimeStamp@RepVB.hlp
+2 MdoStdModule Object
+3 MdoStdModule Object=reobjMdoStdModule@RepVB.hlp
+3 MdoStdModule Description Property=reproMdoStdModuleDescription@RepVB.hlp
+3 MdoStdModule FileName Property=reproMdoStdModuleFileName@RepVB.hlp
+3 MdoStdModule MdoComponentProject Collection=recolMdoStdModuleMdoComponentProject@RepVB.hlp
+3 MdoStdModule TimeStamp Property=reproMdoStdModuleTimeStamp@RepVB.hlp
+2 MdoTypeLibRef Object
+3 MdoTypeLibRef Object=reobjMdoTypeLibRef@RepVB.hlp
+3 MdoTypeLibRef Description Property=reproMdoTypeLibRefDescription@RepVB.hlp
+3 MdoTypeLibRef FileName Property=reproMdoTypeLibRefFileName@RepVB.hlp
+3 MdoTypeLibRef MdoReferenceProject Collection=recolMdoTypeLibRefMdoReferenceProject@RepVB.hlp
+3 MdoTypeLibRef TimeStamp Property=reproMdoTypeLibRefTimeStamp@RepVB.hlp
+2 MdoUserControl Object
+3 MdoUserControl Object=reobjMdoUserControl@RepVB.hlp
+3 MdoUserControl Description Property=reproMdoUserControlDescription@RepVB.hlp
+3 MdoUserControl FileName Property=reproMdoUserControlFileName@RepVB.hlp
+3 MdoUserControl MdoComponentProject Collection=recolMdoUserControlMdoComponentProject@RepVB.hlp
+3 MdoUserControl MdoControls Collection=recolMdoUserControlMdoControls@RepVB.hlp
+3 MdoUserControl TimeStamp Property=reproMdoUserControlTimeStamp@RepVB.hlp
+2 MdoUserDocument Object
+3 MdoUserDocument Object=reobjMdoUserDocument@RepVB.hlp
+3 MdoUserDocument Description Property=reproMdoUserDocumentDescription@RepVB.hlp
+3 MdoUserDocument FileName Property=reproMdoUserDocumentFileName@RepVB.hlp
+3 MdoUserDocument MdoComponentProject Collection=recolMdoUserDocumentMdoComponentProject@RepVB.hlp
+3 MdoUserDocument MdoControls Collection=recolMdoUserDocumentMdoControls@RepVB.hlp
+3 MdoUserDocument TimeStamp Property=reproMdoUserDocumentTimeStamp@RepVB.hlp
+2 MdoVBForm Object
+3 MdoVBForm Object=reobjMdoVBForm@RepVB.hlp
+3 MdoVBForm Description Property=reproMdoVBFormDescription@RepVB.hlp
+3 MdoVBForm FileName Property=reproMdoVBFormFileName@RepVB.hlp
+3 MdoVBForm MdoComponentProject Collection=recolMdoVBFormMdoComponentProject@RepVB.hlp
+3 MdoVBForm MdoControls Collection=recolMdoVBFormMdoControls@RepVB.hlp
+3 MdoVBForm TimeStamp Property=reproMdoVBFormTimeStamp@RepVB.hlp
+2 ReposRoot Repository Object
+3 ReposRoot Object Modifications=reobjReposRootObjectModifications@RepVB.hlp
+3 ReposRoot Object Contents Collection=recolReposRootContents@RepVB.hlp
+1 MDO Model COM Reference
+2 MDO Model Classes
+3 MDO Model Classes=reconMdoModelClasses@RepVB.hlp
+3 MdoClassModule Class=reclaMdoClassModule@RepVB.hlp
+3 MdoControl Class=reclaMdoControl@RepVB.hlp
+3 MdoDesigner Class=reclaMdoDesigner@RepVB.hlp
+3 MdoMDIForm Class=reclaMdoMDIForm@RepVB.hlp
+3 MdoMSForm Class=reclaMdoMSForm@RepVB.hlp
+3 MdoProject Class=reclaMdoProject@RepVB.hlp
+3 MdoProjectRef Class=reclaMdoProjectRef@RepVB.hlp
+3 MdoPropertyPage Class=reclaMdoPropertyPage@RepVB.hlp
+3 MdoRelatedDocument Class=reclaMdoRelatedDocument@RepVB.hlp
+3 MdoResourceFile Class=reclaMdoResourceFile@RepVB.hlp
+3 MdoStdModule Class=reclaMdoStdModule@RepVB.hlp
+3 MdoTypeLibRef Class=reclaMdoTypeLibRef@RepVB.hlp
+3 MdoUserControl Class=reclaMdoUserControl@RepVB.hlp
+3 MdoUserDocument Class=reclaMdoUserDocument@RepVB.hlp
+3 MdoVBForm Class=reclaMdoVBForm@RepVB.hlp
+3 ReposRoot Class Modifications=reconReposRootClassModifications@RepVB.hlp
+2 MDO Model Interfaces
+3 IMdoComponent Interface
+4 IMdoComponent Interface=reifcIMdoComponent@RepVB.hlp
+4 IMdoComponent MdoComponentProject Collection=recolIMdoComponentMdoComponentProject@RepVB.hlp
+3 IMdoControl Interface
+4 IMdoControl Interface=reifcIMdoControl@RepVB.hlp
+4 IMdoControl ClassName Property=reproIMdoControlClassName@RepVB.hlp
+4 IMdoControl Description Property=reproIMdoControlDescription@RepVB.hlp
+4 IMdoControl Index Property=reproIMdoControlIndex@RepVB.hlp
+4 IMdoControl MdoControlContainer Collection=recolIMdoControlMdoControlContainer@RepVB.hlp
+4 IMdoControl ProgID Property=reproIMdoControlProgID@RepVB.hlp
+3 IMdoControlContainer Interface
+4 IMdoControlContainer Interface=reifcIMdoControlContainer@RepVB.hlp
+4 IMdoControlContainer MdoControls Collection=recolIMdoControlContainerMdoControls@RepVB.hlp
+3 IMdoControlUsage Interface
+4 IMdoControlUsage Interface=reifcIMdoControlUsage@RepVB.hlp
+4 IMdoControlUsage MdoISVControl Collection=recolIMdoControlUsageMdoISVControl@RepVB.hlp
+3 IMdoISVControl Interface
+4 IMdoISVControl Interface=reifcIMdoISVControl@RepVB.hlp
+4 IMdoISVControl MdoControlUsage Collection=recolIMdoISVControlMdoControlUsage@RepVB.hlp
+3 IMdoModelItem Interface
+4 IMdoModelItem Interface=reifcIMdoModelItem@RepVB.hlp
+4 IMdoModelItem Description Property=reproIMdoModelItemDescription@RepVB.hlp
+4 IMdoModelItem FileName Property=reproIMdoModelItemFileName@RepVB.hlp
+4 IMdoModelItem Timestamp Property=reproIMdoModelItemTimestamp@RepVB.hlp
+3 IMdoProject Interface
+4 IMdoProject Interface=reifcIMdoProject@RepVB.hlp
+4 IMdoProject MdoComponents Collection=recolIMdoProjectMdoComponents@RepVB.hlp
+4 IMdoProject MdoReferences Collection=recolIMdoProjectMdoReferences@RepVB.hlp
+3 IMdoReference Interface
+4 IMdoReference Interface=reifcIMdoReference@RepVB.hlp
+4 IMdoReference MdoReferenceProject Collection=recolIMdoReferenceMdoReferenceProject@RepVB.hlp
+3 IMpoProjectItem Interface
+4 IMpoProjectItem Interface=reifcIMpoProjectItem@RepVB.hlp
+4 IMpoProjectItem Containers Collection=recolIMpoProjectItemContainers@RepVB.hlp
+3 IMpoProjectItemContainer Interface
+4 IMpoProjectItemContainer Interface=reifcIMpoProjectItemContainer@RepVB.hlp
+4 IMpoProjectItemContainer Contents Collection=recolIMpoProjectItemContainerContents@RepVB.hlp
+1 MDO Model SQL Schema
+2 MDO Model SQL Schema=reconMdoModelSQLSchema@RepVB.hlp
+2 TblMdoControl SQL Table=reconTblMdoControl@RepVB.hlp
+2 TblMdoModelItem SQL Table=reconTblMdoModelItem@RepVB.hlp
+3 

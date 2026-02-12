@@ -1,0 +1,398 @@
+:Base Repostry.hlp
+1 Repository Browser
+2 Repository Overview=reconRepositoryOverview@Repostry.hlp
+2 Repository Browser Overview=reconRepositoryBrowserOverview@Repostry.hlp
+2 Repository Browser User Interface=reconRepositoryBrowserUserInterface@Repostry.hlp
+2 Repository Browser Hierarchy=reconRepositoryBrowserHierarchy@Repostry.hlp
+2 Tool Information Models in the Repository Browser=reconToolInformationModelsintheRepositoryBrowser@Repostry.hlp
+2 Interfaces in the Repository Browser=reconInterfacesintheRepositoryBrowser@Repostry.hlp
+2 Repository Objects in the Repository Browser=reconRepositoryObjectsintheRepositoryBrowser@Repostry.hlp
+2 Relationships in the Repository Browser=reconRelationshipsintheRepositoryBrowser@Repostry.hlp
+2 Collections in the Repository Browser=reconCollectionsintheRepositoryBrowser@Repostry.hlp
+2 Object Properties in the Repository Browser=reconObjectPropertiesintheRepositoryBrowser@Repostry.hlp
+2 Repository Browser Filter Dialog=reconRepositoryBrowserFilterDialog@Repostry.hlp
+2 Viewing Object Types in the Repository Browser=reconViewingObjectTypesintheRepositoryBrowser@Repostry.hlp
+2 Repository Root and the Repository Browser=reconRepositoryRootandtheRepositoryBrowser@Repostry.hlp
+2 Upgrade to Pro Browser=reconUpgradetoProBrowser@Repostry.hlp
+2 About Repository Browser=reconAboutRepositoryBrowser@Repostry.hlp
+1 Repository Automation Reference
+2 Accessing Automation Object Members=reconAccessingAutomationObjectMembersX@Repostry.hlp
+2 Repository Engine Objects
+3 ObjectCol Object
+4 ObjectCol Object=reobjObjectCol@Repostry.hlp
+4 ObjectCol Count Property=reproObjectColCount@Repostry.hlp
+4 ObjectCol Item Property=reproObjectColItem@Repostry.hlp
+4 ObjectCol Refresh Method=remthObjectColRefresh@Repostry.hlp
+3 Relationship Object
+4 Relationship Object=reobjRelationship@Repostry.hlp
+4 Relationship Delete Method=remthRelationshipDelete@Repostry.hlp
+4 Relationship Destination Property=reproRelationshipDestination@Repostry.hlp
+4 Relationship Interface Property=reproRelationshipInterface@Repostry.hlp
+4 Relationship Lock Method=remthRelationshipLock@Repostry.hlp
+4 Relationship Name Property=reproRelationshipName@Repostry.hlp
+4 Relationship Origin Property=reproRelationshipOrigin@Repostry.hlp
+4 Relationship Properties Collection=recolRelationshipProperties@Repostry.hlp
+4 Relationship Refresh Method=remthRelationshipRefresh@Repostry.hlp
+4 Relationship Repository Property=reproRelationshipRepository@Repostry.hlp
+4 Relationship Source Property=reproRelationshipSource@Repostry.hlp
+4 Relationship Target Property=reproRelationshipTarget@Repostry.hlp
+4 Relationship Type Property=reproRelationshipType@Repostry.hlp
+3 RelationshipCol Object
+4 RelationshipCol Object=reobjRelationshipCol@Repostry.hlp
+4 RelationshipCol Add Method=remthRelationshipColAdd@Repostry.hlp
+4 RelationshipCol Count Property=reproRelationshipColCount@Repostry.hlp
+4 RelationshipCol Insert Method=remthRelationshipColInsert@Repostry.hlp
+4 RelationshipCol Item Property=reproRelationshipColItem@Repostry.hlp
+4 RelationshipCol Move Method=remthRelationshipColMove@Repostry.hlp
+4 RelationshipCol Refresh Method=remthRelationshipColRefresh@Repostry.hlp
+4 RelationshipCol Remove Method=remthRelationshipColRemove@Repostry.hlp
+4 RelationshipCol Source Property=reproRelationshipColSource@Repostry.hlp
+4 RelationshipCol Type Property=reproRelationshipColType@Repostry.hlp
+3 Repository Object
+4 Repository Object=reobjRepository@Repostry.hlp
+4 Repository ConnectionString Property=reproRepositoryConnectionString@Repostry.hlp
+4 Repository Create Method=remthRepositoryCreate@Repostry.hlp
+4 Repository CreateObject Method=remthRepositoryCreateObject@Repostry.hlp
+4 Repository FreeConnection Method=remthRepositoryFreeConnection@Repostry.hlp
+4 Repository GetNewConnection Method=remthRepositoryGetNewConnection@Repostry.hlp
+4 Repository InternalIDToObjectID Method=remthRepositoryInternalIDToObjectID@Repostry.hlp
+4 Repository Object Property=reproRepositoryObject@Repostry.hlp
+4 Repository ObjectIDToInternalID Method=remthRepositoryObjectIDToInternalID@Repostry.hlp
+4 Repository Open Method=remthRepositoryOpen@Repostry.hlp
+4 Repository Refresh Method=remthRepositoryRefresh@Repostry.hlp
+4 Repository ReposConnection Property=reproRepositoryReposConnection@Repostry.hlp
+4 Repository RootObject Property=reproRepositoryRootObject@Repostry.hlp
+4 Repository Transaction Property=reproRepositoryTransaction@Repostry.hlp
+4 Connecting to a Repository Database=reconConnectingtoaRepositoryDatabase@Repostry.hlp
+3 RepositoryObject Object
+4 RepositoryObject Object=reobjRepositoryObject@Repostry.hlp
+4 RepositoryObject Delete Method=remthRepositoryObjectDelete@Repostry.hlp
+4 RepositoryObject Interface Property=reproRepositoryObjectInterface@Repostry.hlp
+4 RepositoryObject InternalID Property=reproRepositoryObjectInternalID@Repostry.hlp
+4 RepositoryObject Lock Method=remthRepositoryObjectLock@Repostry.hlp
+4 RepositoryObject Name Property=reproRepositoryObjectName@Repostry.hlp
+4 RepositoryObject ObjectID Property=reproRepositoryObjectObjectID@Repostry.hlp
+4 RepositoryObject Properties Collection=recolRepositoryObjectProperties@Repostry.hlp
+4 RepositoryObject Refresh Method=remthRepositoryObjectRefresh@Repostry.hlp
+4 RepositoryObject Repository Property=reproRepositoryObjectRepository@Repostry.hlp
+4 RepositoryObject Type Property=reproRepositoryObjectType@Repostry.hlp
+3 RepositoryTransaction Object
+4 RepositoryTransaction Object=reobjRepositoryTransaction@Repostry.hlp
+4 RepositoryTransaction Abort Method=remthRepositoryTransactionAbort@Repostry.hlp
+4 RepositoryTransaction Begin Method=remthRepositoryTransactionBegin@Repostry.hlp
+4 RepositoryTransaction Commit Method=remthRepositoryTransactionCommit@Repostry.hlp
+4 RepositoryTransaction Flush Method=remthRepositoryTransactionFlush@Repostry.hlp
+4 RepositoryTransaction GetOption Method=remthRepositoryTransactionGetOption@Repostry.hlp
+4 RepositoryTransaction SetOption Method=remthRepositoryTransactionSetOption@Repostry.hlp
+4 RepositoryTransaction Status Property=reproRepositoryTransactionStatus@Repostry.hlp
+3 ReposProperties Object
+4 ReposProperties Object=reobjReposProperties@Repostry.hlp
+4 ReposProperties Count Property=reproReposPropertiesCount@Repostry.hlp
+4 ReposProperties Item Property=reproReposPropertiesItem@Repostry.hlp
+3 ReposProperty Object
+4 ReposProperty Object=reobjReposProperty@Repostry.hlp
+4 ReposProperty Name Property=reproReposPropertyName@Repostry.hlp
+4 ReposProperty Type Property=reproReposPropertyType@Repostry.hlp
+4 ReposProperty Value Property=reproReposPropertyValue@Repostry.hlp
+2 Type Information Model Objects
+3 ClassDef Object
+4 ClassDef Object=reobjClassDef@Repostry.hlp
+4 ClassDef AddInterface Method=remthClassDefAddInterface@Repostry.hlp
+4 ClassDef ClassID Property=reproClassDefClassID@Repostry.hlp
+4 ClassDef CreateInterfaceDef Method=remthClassDefCreateInterfaceDef@Repostry.hlp
+4 ClassDef Interfaces Collection=recolClassDefInterfaces@Repostry.hlp
+4 ClassDef ObjectInstances Method=remthClassDefObjectInstances@Repostry.hlp
+4 ClassDef Properties Collection=recolClassDefProperties@Repostry.hlp
+4 ClassDef ReposTypeLibScopes Collection=recolClassDefReposTypeLibScopes@Repostry.hlp
+3 CollectionDef Object
+4 CollectionDef Object=reobjCollectionDef@Repostry.hlp
+4 CollectionDef CollectionItem Collection=recolCollectionDefCollectionItem@Repostry.hlp
+4 CollectionDef DispatchID Property=reproCollectionDefDispatchID@Repostry.hlp
+4 CollectionDef Flags Property=reproCollectionDefFlags@Repostry.hlp
+4 CollectionDef Interface Collection=recolCollectionDefInterface@Repostry.hlp
+4 CollectionDef IsOrigin Property=reproCollectionDefIsOrigin@Repostry.hlp
+4 CollectionDef MaxCount Property=reproCollectionDefMaxCount@Repostry.hlp
+4 CollectionDef MinCount Property=reproCollectionDefMinCount@Repostry.hlp
+4 CollectionDef Properties Collection=recolCollectionDefProperties@Repostry.hlp
+3 InterfaceDef Object
+4 InterfaceDef Object=reobjInterfaceDef@Repostry.hlp
+4 InterfaceDef Ancestor Collection=recolInterfaceDefAncestor@Repostry.hlp
+4 InterfaceDef Classes Collection=recolInterfaceDefClasses@Repostry.hlp
+4 InterfaceDef CreateMethodDef Method=remthInterfaceDefCreateMethodDef@Repostry.hlp
+4 InterfaceDef CreatePropertyDef Method=remthInterfaceDefCreatePropertyDef@Repostry.hlp
+4 InterfaceDef CreateRelationshipColDef Method=remthInterfaceDefCreateRelationshipColDef@Repostry.hlp
+4 InterfaceDef Descendants Collection=recolInterfaceDefDescendants@Repostry.hlp
+4 InterfaceDef Flags Property=reproInterfaceDefFlags@Repostry.hlp
+4 InterfaceDef InterfaceID Property=reproInterfaceDefInterfaceID@Repostry.hlp
+4 InterfaceDef Members Collection=recolInterfaceDefMembers@Repostry.hlp
+4 InterfaceDef ObjectInstances Method=remthInterfaceDefObjectInstances@Repostry.hlp
+4 InterfaceDef Properties Collection=recolInterfaceDefProperties@Repostry.hlp
+4 InterfaceDef ReposTypeLibScopes Collection=recolInterfaceDefReposTypeLibScopes@Repostry.hlp
+4 InterfaceDef TableName Property=reproInterfaceDefTableName@Repostry.hlp
+3 MethodDef Object
+4 MethodDef Object=reobjMethodDef@Repostry.hlp
+4 MethodDef DispatchID Property=reproMethodDefDispatchID@Repostry.hlp
+4 MethodDef Flags Property=reproMethodDefFlags@Repostry.hlp
+4 MethodDef Interface Collection=recolMethodDefInterface@Repostry.hlp
+4 MethodDef Properties Collection=recolMethodDefProperties@Repostry.hlp
+3 PropertyDef Object
+4 PropertyDef Object=reobjPropertyDef@Repostry.hlp
+4 PropertyDef APIType Property=reproPropertyDefAPIType@Repostry.hlp
+4 PropertyDef ColumnName Property=reproPropertyDefColumnName@Repostry.hlp
+4 PropertyDef DispatchID Property=reproPropertyDefDispatchID@Repostry.hlp
+4 PropertyDef Flags Property=reproPropertyDefFlags@Repostry.hlp
+4 PropertyDef Interface Collection=recolPropertyDefInterface@Repostry.hlp
+4 PropertyDef Properties Collection=recolPropertyDefProperties@Repostry.hlp
+4 PropertyDef SQLScale Property=reproPropertyDefSQLScale@Repostry.hlp
+4 PropertyDef SQLSize Property=reproPropertyDefSQLSize@Repostry.hlp
+4 PropertyDef SQLType Property=reproPropertyDefSQLType@Repostry.hlp
+3 RelationshipDef Object
+4 RelationshipDef Object=reobjRelationshipDef@Repostry.hlp
+4 RelationshipDef ItemInCollections Collection=recolRelationshipDefItemInCollections@Repostry.hlp
+4 RelationshipDef Properties Collection=recolRelationshipDefProperties@Repostry.hlp
+4 RelationshipDef ReposTypeLibScopes Collection=recolRelationshipDefReposTypeLibScopes@Repostry.hlp
+3 ReposRoot Object
+4 ReposRoot Object=reobjReposRoot@Repostry.hlp
+4 ReposRoot CreateTypeLib Method=remthReposRootCreateTypeLib@Repostry.hlp
+4 ReposRoot Properties Collection=recolReposRootProperties@Repostry.hlp
+4 ReposRoot ReposTypeLibs Collection=recolReposRootReposTypeLibs@Repostry.hlp
+3 ReposTypeLib Object
+4 ReposTypeLib Object=reobjReposTypeLib@Repostry.hlp
+4 ReposTypeLib CreateClassDef Method=remthReposTypeLibCreateClassDef@Repostry.hlp
+4 ReposTypeLib CreateInterfaceDef Method=remthReposTypeLibCreateInterfaceDef@Repostry.hlp
+4 ReposTypeLib CreateRelationshipDef Method=remthReposTypeLibCreateRelationshipDef@Repostry.hlp
+4 ReposTypeLib Properties Collection=recolReposTypeLibProperties@Repostry.hlp
+4 ReposTypeLib ReposTypeInfos Collection=recolReposTypeLibReposTypeInfos@Repostry.hlp
+4 ReposTypeLib ReposTypeLibContexts Collection=recolReposTypeLibReposTypeLibContexts@Repostry.hlp
+4 ReposTypeLib TypeLibID Property=reproReposTypeLibTypeLibID@Repostry.hlp
+1 Repository COM Reference
+2 Repository Engine Classes
+3 Repository Engine Classes=reconRepositoryEngineClasses@Repostry.hlp
+3 ObjectCol Class=reclaObjectCol@Repostry.hlp
+3 Relationship Class=reclaRelationship@Repostry.hlp
+3 RelationshipCol Class=reclaRelationshipCol@Repostry.hlp
+3 Repository Class=reclaRepository@Repostry.hlp
+3 RepositoryObject Class=reclaRepositoryObject@Repostry.hlp
+3 ReposProperties Class=reclaReposProperties@Repostry.hlp
+3 ReposProperty Class=reclaReposProperty@Repostry.hlp
+2 Type Information Model Classes
+3 Type Information Model Classes=reconTypeInformationModelClasses@Repostry.hlp
+3 ClassDef Class=reclaClassDef@Repostry.hlp
+3 CollectionDef Class=reclaCollectionDef@Repostry.hlp
+3 InterfaceDef Class=reclaInterfaceDef@Repostry.hlp
+3 MethodDef Class=reclaMethodDef@Repostry.hlp
+3 PropertyDef Class=reclaPropertyDef@Repostry.hlp
+3 RelationshipDef Class=reclaRelationshipDef@Repostry.hlp
+3 ReposRoot Class=reclaReposRoot@Repostry.hlp
+3 ReposTypeLib Class=reclaReposTypeLib@Repostry.hlp
+2 Repository Engine COM Interfaces
+3 IAnnotationalProps Interface
+4 IAnnotationalProps Interface=reifcIAnnotationalProps@Repostry.hlp
+3 IEnumRepositoryErrors Interface
+4 IEnumRepositoryErrors Interface=reifcIEnumRepositoryErrors@Repostry.hlp
+4 IEnumRepositoryErrors::Clone=remthIEnumRepositoryErrorsClone@Repostry.hlp
+4 IEnumRepositoryErrors::Next=remthIEnumRepositoryErrorsNext@Repostry.hlp
+4 IEnumRepositoryErrors::Reset=remthIEnumRepositoryErrorsReset@Repostry.hlp
+4 IEnumRepositoryErrors::Skip=remthIEnumRepositoryErrorsSkip@Repostry.hlp
+3 INamedObject Interface
+4 INamedObject Interface=reifcINamedObject@Repostry.hlp
+4 INamedObject Name Property=reproINamedObjectName@Repostry.hlp
+3 IObjectCol Interface
+4 IObjectCol Interface=reifcIObjectCol@Repostry.hlp
+4 IObjectCol::get_Count=remthIObjectColget_Count@Repostry.hlp
+4 IObjectCol::get_Item=remthIObjectColget_Item@Repostry.hlp
+4 IObjectCol::_NewEnum=remthIObjectCol_NewEnum@Repostry.hlp
+4 IObjectCol::Refresh=remthIObjectColRefresh@Repostry.hlp
+3 IRelationship Interface
+4 IRelationship Interface=reifcIRelationship@Repostry.hlp
+4 IRelationship::get_Destination=remthIRelationshipget_Destination@Repostry.hlp
+4 IRelationship::get_Origin=remthIRelationshipget_Origin@Repostry.hlp
+4 IRelationship::get_Source=remthIRelationshipget_Source@Repostry.hlp
+4 IRelationship::get_Target=remthIRelationshipget_Target@Repostry.hlp
+3 IRelationshipCol Interface
+4 IRelationshipCol Interface=reifcIRelationshipCol@Repostry.hlp
+4 IRelationshipCol::Add=remthIRelationshipColAdd@Repostry.hlp
+4 IRelationshipCol::get_Count=remthIRelationshipColget_Count@Repostry.hlp
+4 IRelationshipCol::get_Item=remthIRelationshipColget_Item@Repostry.hlp
+4 IRelationshipCol::get_Source=remthIRelationshipColget_Source@Repostry.hlp
+4 IRelationshipCol::get_Type=remthIRelationshipColget_Type@Repostry.hlp
+4 IRelationshipCol::Insert=remthIRelationshipColInsert@Repostry.hlp
+4 IRelationshipCol::Move=remthIRelationshipColMove@Repostry.hlp
+4 IRelationshipCol::_NewEnum=remthIRelationshipCol_NewEnum@Repostry.hlp
+4 IRelationshipCol::Refresh=remthIRelationshipColRefresh@Repostry.hlp
+4 IRelationshipCol::Remove=remthIRelationshipColRemove@Repostry.hlp
+3 IRepository Interface
+4 IRepository Interface=reifcIRepository@Repostry.hlp
+4 IRepository::Create=remthIRepositoryCreate@Repostry.hlp
+4 IRepository::CreateObject=remthIRepositoryCreateObject@Repostry.hlp
+4 IRepository::get_Object=remthIRepositoryget_Object@Repostry.hlp
+4 IRepository::get_RootObject=remthIRepositoryget_RootObject@Repostry.hlp
+4 IRepository::get_Transaction=remthIRepositoryget_Transaction@Repostry.hlp
+4 IRepository::InternalIDToObjectID=remthIRepositoryInternalIDToObjectID@Repostry.hlp
+4 IRepository::ObjectIDToInternalID=remthIRepositoryObjectIDToInternalID@Repostry.hlp
+4 IRepository::Open=remthIRepositoryOpen@Repostry.hlp
+4 IRepository::Refresh=remthIRepositoryRefresh@Repostry.hlp
+4 Connecting to a Repository Database=reconConnectingtoaRepositoryDatabase@Repostry.hlp
+3 IRepositoryDispatch Interface
+4 IRepositoryDispatch Interface=reifcIRepositoryDispatch@Repostry.hlp
+4 IRepositoryDispatch::get_Properties=remthIRepositoryDispatchget_Properties@Repostry.hlp
+3 IRepositoryErrorQueue Interface
+4 IRepositoryErrorQueue Interface=reifcIRepositoryErrorQueue@Repostry.hlp
+4 IRepositoryErrorQueue::Count=remthIRepositoryErrorQueueCount@Repostry.hlp
+4 IRepositoryErrorQueue::Insert=remthIRepositoryErrorQueueInsert@Repostry.hlp
+4 IRepositoryErrorQueue::Item=remthIRepositoryErrorQueueItem@Repostry.hlp
+4 IRepositoryErrorQueue::Remove=remthIRepositoryErrorQueueRemove@Repostry.hlp
+4 IRepositoryErrorQueue::_NewEnum=remthIRepositoryErrorQueue_NewEnum@Repostry.hlp
+3 IRepositoryErrorQueueHandler Interface
+4 IRepositoryErrorQueueHandler Interface=reifcIRepositoryErrorQueueHandler@Repostry.hlp
+4 IRepositoryErrorQueueHandler::CreateErrorQueue=remthIRepositoryErrorQueueHandlerCreateErrorQueue@Repostry.hlp
+4 IRepositoryErrorQueueHandler::GetErrorQueue=remthIRepositoryErrorQueueHandlerGetErrorQueue@Repostry.hlp
+4 IRepositoryErrorQueueHandler::SetErrorQueue=remthIRepositoryErrorQueueHandlerSetErrorQueue@Repostry.hlp
+3 IRepositoryItem Interface
+4 IRepositoryItem Interface=reifcIRepositoryItem@Repostry.hlp
+4 IRepositoryItem::Delete=remthIRepositoryItemDelete@Repostry.hlp
+4 IRepositoryItem::get_Interface=remthIRepositoryItemget_Interface@Repostry.hlp
+4 IRepositoryItem::get_Name=remthIRepositoryItemget_Name@Repostry.hlp
+4 IRepositoryItem::get_Repository=remthIRepositoryItemget_Repository@Repostry.hlp
+4 IRepositoryItem::get_Type=remthIRepositoryItemget_Type@Repostry.hlp
+4 IRepositoryItem::Lock=remthIRepositoryItemLock@Repostry.hlp
+4 IRepositoryItem::put_Name=remthIRepositoryItemput_Name@Repostry.hlp
+4 IRepositoryItem::Refresh=remthIRepositoryItemRefresh@Repostry.hlp
+3 IRepositoryObject Interface
+4 IRepositoryObject Interface=reifcIRepositoryObject@Repostry.hlp
+4 IRepositoryObject::get_InternalID=remthIRepositoryObjectget_InternalID@Repostry.hlp
+4 IRepositoryObject::get_ObjectID=remthIRepositoryObjectget_ObjectID@Repostry.hlp
+3 IRepositoryObjectStorage Interface
+4 IRepositoryObjectStorage Interface=reifcIRepositoryObjectStorage@Repostry.hlp
+4 IRepositoryObjectStorage::get_PropertyInterface=remthIRepositoryObjectStorageget_PropertyInterface@Repostry.hlp
+4 IRepositoryObjectStorage::InitNew=remthIRepositoryObjectStorageInitNew@Repostry.hlp
+4 IRepositoryObjectStorage::Load=remthIRepositoryObjectStorageLoad@Repostry.hlp
+3 IRepositoryODBC Interface
+4 IRepositoryODBC Interface=reifcIRepositoryODBC@Repostry.hlp
+4 IRepositoryODBC::FreeConnection Method=remthIRepositoryODBCFreeConnection@Repostry.hlp
+4 IRepositoryODBC::get_ConnectionString Method=remthIRepositoryODBCget_ConnectionString@Repostry.hlp
+4 IRepositoryODBC::GetNewConnection Method=remthIRepositoryODBCGetNewConnection@Repostry.hlp
+4 IRepositoryODBC::get_ReposConnection Method=remthIRepositoryODBCget_ReposConnection@Repostry.hlp
+3 IRepositoryTransaction Interface
+4 IRepositoryTransaction Interface=reifcIRepositoryTransaction@Repostry.hlp
+4 IRepositoryTransaction::Abort=remthIRepositoryTransactionAbort@Repostry.hlp
+4 IRepositoryTransaction::Begin=remthIRepositoryTransactionBegin@Repostry.hlp
+4 IRepositoryTransaction::Commit=remthIRepositoryTransactionCommit@Repostry.hlp
+4 IRepositoryTransaction::Flush=remthIRepositoryTransactionFlush@Repostry.hlp
+4 IRepositoryTransaction::GetOption=remthIRepositoryTransactionGetOption@Repostry.hlp
+4 IRepositoryTransaction::get_Status=remthIRepositoryTransactionget_Status@Repostry.hlp
+4 IRepositoryTransaction::SetOption=remthIRepositoryTransactionSetOption@Repostry.hlp
+3 IReposProperties Interface
+4 IReposProperties Interface=reifcIReposProperties@Repostry.hlp
+4 IReposProperties::get_Count=remthIReposPropertiesget_Count@Repostry.hlp
+4 IReposProperties::get_Item=remthIReposPropertiesget_Item@Repostry.hlp
+4 IReposProperties::_NewEnum=remthIReposProperties_NewEnum@Repostry.hlp
+3 IReposProperty Interface
+3 IReposProperty Interface=reifcIReposProperty@Repostry.hlp
+4 IReposProperty::get_Type=remthIReposPropertyget_Type@Repostry.hlp
+4 IReposProperty::get_Name=remthIReposPropertyget_Name@Repostry.hlp
+4 IReposProperty::get_Value=remthIReposPropertyget_Value@Repostry.hlp
+4 IReposProperty::put_Value=remthIReposPropertyput_Value@Repostry.hlp
+3 ISummaryInformation Interface
+4 ISummaryInformation Interface=reifcISummaryInformation@Repostry.hlp
+4 ISummaryInformation Comments Property=reproISummaryInformationComments@Repostry.hlp
+4 ISummaryInformation ShortDescription Property=reproISummaryInformationShortDescription@Repostry.hlp
+3 ITargetObjectCol Interface
+4 ITargetObjectCol Interface=reifcITargetObjectCol@Repostry.hlp
+4 ITargetObjectCol::Add=remthITargetObjectColAdd@Repostry.hlp
+4 ITargetObjectCol::get_Source=remthITargetObjectColget_Source@Repostry.hlp
+4 ITargetObjectCol::get_Type=remthITargetObjectColget_Type@Repostry.hlp
+4 ITargetObjectCol::Insert=remthITargetObjectColInsert@Repostry.hlp
+4 ITargetObjectCol::Move=remthITargetObjectColMove@Repostry.hlp
+4 ITargetObjectCol::Remove=remthITargetObjectColRemove@Repostry.hlp
+2 Type Information Model COM Interfaces
+3 IClassDef Interface
+4 IClassDef Interface=reifcIClassDef@Repostry.hlp
+4 IClassDef::AddInterface=remthIClassDefAddInterface@Repostry.hlp
+4 IClassDef ClassID Property=reproIClassDefClassID@Repostry.hlp
+4 IClassDef::CreateInterfaceDef=remthIClassDefCreateInterfaceDef@Repostry.hlp
+4 IClassDef Interfaces Collection=recolIClassDefInterfaces@Repostry.hlp
+4 IClassDef::ObjectInstances=remthIClassDefObjectInstances@Repostry.hlp
+3 ICollectionDef Interface
+4 ICollectionDef Interface=reifcICollectionDef@Repostry.hlp
+4 ICollectionDef CollectionItem Collection=recolICollectionDefCollectionItem@Repostry.hlp
+4 ICollectionDef Flags Property=reproICollectionDefFlags@Repostry.hlp
+4 ICollectionDef IsOrigin Property=reproICollectionDefIsOrigin@Repostry.hlp
+4 ICollectionDef MaxCount Property=reproICollectionDefMaxCount@Repostry.hlp
+4 ICollectionDef MinCount Property=reproICollectionDefMinCount@Repostry.hlp
+3 IInterfaceDef Interface
+4 IInterfaceDef Interface=reifcIInterfaceDef@Repostry.hlp
+4 IInterfaceDef Ancestor Collection=recolIInterfaceDefAncestor@Repostry.hlp
+4 IInterfaceDef Classes Collection=recolIInterfaceDefClasses@Repostry.hlp
+4 IInterfaceDef::CreateMethodDef=remthIInterfaceDefCreateMethodDef@Repostry.hlp
+4 IInterfaceDef::CreatePropertyDef=remthIInterfaceDefCreatePropertyDef@Repostry.hlp
+4 IInterfaceDef::CreateRelationshipColDef=remthIInterfaceDefCreateRelationshipColDef@Repostry.hlp
+4 IInterfaceDef Descendants Collection=recolIInterfaceDefDescendants@Repostry.hlp
+4 IInterfaceDef Flags Property=reproIInterfaceDefFlags@Repostry.hlp
+4 IInterfaceDef InterfaceID Property=reproIInterfaceDefInterfaceID@Repostry.hlp
+4 IInterfaceDef Members Collection=recolIInterfaceDefMembers@Repostry.hlp
+4 IInterfaceDef::ObjectInstances=remthIInterfaceDefObjectInstances@Repostry.hlp
+4 IInterfaceDef TableName Property=reproIInterfaceDefTableName@Repostry.hlp
+3 IInterfaceMember Interface
+4 IInterfaceMember Interface=reifcIInterfaceMember@Repostry.hlp
+4 IInterfaceMember DispatchID Property=reproIInterfaceMemberDispatchID@Repostry.hlp
+4 IInterfaceMember Flags Property=reproIInterfaceMemberFlags@Repostry.hlp
+4 IInterfaceMember Interface Collection=recolIInterfaceMemberInterface@Repostry.hlp
+3 IManageReposTypeLib Interface
+4 IManageReposTypeLib Interface=reifcIManageReposTypeLib@Repostry.hlp
+4 IManageReposTypeLib::CreateTypeLib=remthIManageReposTypeLibCreateTypeLib@Repostry.hlp
+4 IManageReposTypeLib ReposTypeLibs Collection=recolIManageReposTypeLibReposTypeLibs@Repostry.hlp
+3 IPropertyDef Interface
+4 IPropertyDef Interface=reifcIPropertyDef@Repostry.hlp
+4 IPropertyDef APIType Property=reproIPropertyDefAPIType@Repostry.hlp
+4 IPropertyDef ColumnName Property=reproIPropertyDefColumnName@Repostry.hlp
+4 IPropertyDef Flags Property=reproIPropertyDefFlags@Repostry.hlp
+4 IPropertyDef SQLScale Property=reproIPropertyDefSQLScale@Repostry.hlp
+4 IPropertyDef SQLSize Property=reproIPropertyDefSQLSize@Repostry.hlp
+4 IPropertyDef SQLType Property=reproIPropertyDefSQLType@Repostry.hlp
+3 IReposRoot Interface
+4 IReposRoot Interface=reifcIReposRoot@Repostry.hlp
+3 IReposTypeInfo Interface
+4 IReposTypeInfo Interface=reifcIReposTypeInfo@Repostry.hlp
+4 IReposTypeInfo ItemInCollections Collection=recolIReposTypeInfoItemInCollections@Repostry.hlp
+4 IReposTypeInfo ReposTypeLibScopes Collection=recolIReposTypeInfoReposTypeLibScopes@Repostry.hlp
+3 IReposTypeLib Interface
+4 IReposTypeLib Interface=reifcIReposTypeLib@Repostry.hlp
+4 IReposTypeLib::CreateClassDef=remthIReposTypeLibCreateClassDef@Repostry.hlp
+4 IReposTypeLib::CreateInterfaceDef=remthIReposTypeLibCreateInterfaceDef@Repostry.hlp
+4 IReposTypeLib::CreateRelationshipDef=remthIReposTypeLibCreateRelationshipDef@Repostry.hlp
+4 IReposTypeLib ReposTypeInfos Collection=recolIReposTypeLibReposTypeInfos@Repostry.hlp
+4 IReposTypeLib ReposTypeLibContexts Collection=recolIReposTypeLibReposTypeLibContexts@Repostry.hlp
+4 IReposTypeLib TypeLibID Property=reproIReposTypeLibTypeLibID@Repostry.hlp
+1 Repository Data Structures and Constants
+2 Repository Data Structures and Constants=reconRepositoryDataStructuresandConstants@Repostry.hlp
+2 Repository Constants=recstRepositoryConstants@Repostry.hlp
+2 CollectionDefFlags Enumeration=recstCollectionDefFlags@Repostry.hlp
+2 ConnectionFlags Enumeration=recstConnectionFlags@Repostry.hlp
+2 InterfaceDefFlags Enumeration=recstInterfaceDefFlags@Repostry.hlp
+2 InterfaceMemberFlags Enumeration=recstInterfaceMemberFlags@Repostry.hlp
+2 PropertyDefFlags Enumeration=recstPropertyDefFlags@Repostry.hlp
+2 TransactionFlags Enumeration=recstTransactionFlags@Repostry.hlp
+2 Repository Data Types=redatRepositoryDataTypes@Repostry.hlp
+2 REPOSERROR Data Structure=redasREPOSERROR@Repostry.hlp
+1 Repository Errors
+2 Repository Errors=reconRepositoryErrors@Repostry.hlp
+2 Repository Errors (Numerical Order)=reconRepositoryErrorsNumericalOrder@Repostry.hlp
+2 Repository Errors (Alphabetical Order)=reconRepositoryErrorsAlphabeticalOrder@Repostry.hlp
+1 Repository SQL Schema
+2 Repository SQL Schema=reconRepositorySQLSchema@Repostry.hlp
+2 Repository SQL Data Types=reconRepositorySQLDataTypes@Repostry.hlp
+2 RTblClassDefs SQL Table=reconRTblClassDefs@Repostry.hlp
+2 RTblIfaceDefs SQL Table=reconRTblIfaceDefs@Repostry.hlp
+2 RTblIfaceMem SQL Table=reconRTblIfaceMem@Repostry.hlp
+2 RTblObjects SQL Table=reconRTblObjects@Repostry.hlp
+2 RTblPropDefs SQL Table=reconRTblPropDefs@Repostry.hlp
+2 RTblProps SQL Table=reconRTblProps@Repostry.hlp
+2 RTblRelshipProps SQL Table=reconRTblRelshipProps@Repostry.hlp
+2 RTblRelships SQL Table=reconRTblRelships@Repostry.hlp
+2 RTblRelColDefs SQL Table=reconRTblRelColDefs@Repostry.hlp
+2 RTblRelColPairs SQL Table=reconRTblRelColPairs@Repostry.hlp
+2 RTblSites SQL Table=reconRTblSites@Repostry.hlp
+2 RTblTypeLibs SQL Table=reconRTblTypeLibs@Repostry.hlp
+1 Repository Glossary
+2 Repository Glossary=rerefRepositoryGlossary@Repostry.hlp

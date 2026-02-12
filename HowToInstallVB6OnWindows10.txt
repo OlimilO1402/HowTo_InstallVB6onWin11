@@ -1,0 +1,10 @@
+' v ########## v ' THIS IS OUTDATED ' v ########## v '
+1. create empty file named "MSJAVA.dll" 
+   - to create the file open notepad, 
+   - click "file save" select your desktop and give it the name "MSJAVA.txt" 
+   - on your desktop select the file press F2, rename the extension from .txt to .dll and confirm the messagebox "rename ...extension... " with "yes"
+2. copy the file to your folder "C:\Windows\" and "C:\Windows\System32\"
+3. put the "Visual Studio 6.0 Enterprise Edition"-CD into your cd-rom and start the installation by starting "Setup.exe" from the disk-root
+4. ignore the message "Maybe not working ..."
+4. select only VB to install, 
+5. install it

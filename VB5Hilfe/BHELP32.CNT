@@ -1,0 +1,47 @@
+:Base Bhelp32.hlp>main
+:Title Bidirectional Features
+1 Introduction
+2 Overview=GeneralOverview
+2 Terminology=Terminology
+2 Bidirectional-specific Features=BidiFeatures
+2 Compatibility=Compatibility
+2 Setting Up=SettingUp
+1 Essentials
+2 Keyboard Language=KeyLanguage
+2 Reading Order=ReadOrder
+2 Cursor Characteristics=CursorChar
+2 Direction=Direction
+1 Bidirectional-related Properties
+2 RightToLeft=RightToLeft
+2 Alignment=Alignment
+1 Forms and Objects
+2 Forms=Forms
+2 Menus=Menus
+2 Printing=Printing
+2 Printer Object=PrintObject
+1 Controls
+2 CheckBox=CheckBox
+2 ComboBox=ComboBox
+2 CommandButton=CmdButton
+2 Data=Data
+2 DBCombo=DBCombo
+2 DBList=DBList
+2 Frame=Frame
+2 Grid=Grid
+2 HScrollBar=HScrollBar
+2 Label=Label
+2 ListBox=ListBox
+2 MSFlexGrid =MSFlexGrid
+2 OptionButton=OptionButton
+2 PictureBox=PictureBox
+2 TextBox=TextBox
+1 Additional Bidirectional Features
+2 Creating Middle East Database Applications=CreateMEDatabaseApps
+2 Hijri Calendar Support=HijriCalSupport
+2 Creating ActiveX Controls=ActiveX
+2 Accessing Bidirectional Features of Windows APIs=AccessAPI
+2 Creating Help Files=CreateHelp
+2 Creating Distribution Disk Sets=CreateDisks
+1 Object and Control Summaries
+2 Object Summary=ObjectSum
+2 Control Summary=ControlSum

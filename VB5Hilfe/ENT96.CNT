@@ -1,0 +1,113 @@
+:Base Ent96.hlp>langref
+:Title Visual Basic Enterprise Utilities
+:Index ActiveX Common Help=VBCMN96.HLP
+:Index Application Wizard=APPWZRD.HLP
+:Index Class Wizard=CLSWZRD.HLP
+:Index CommonDialog=CMDLG96.HLP
+:Index Visual Basic Enterprise=ENT96.HLP
+:Index Windows Common Controls=COMCTL1.HLP
+:Index Windows Common Controls=COMCTL2.HLP
+:Index MSComm=COMM96   HLP
+:Index Control Wizard=CTLCRWZD.HLP
+:Index DAO=DAO35.HLP
+:Index Data Form Wizard=DATAFORM.HLP
+:Index DbGrid=DBGRID96 HLP
+:Index DBCombo/DBList=DBLIST96 HLP
+:Index FlexGrid=MSFLXGRD.HLP
+:Index Document Wizard=FRMDOCWZ.HLP
+:Index Internet Transfer Control=INET.HLP
+:Index DAO=JETSQL35.HLP
+:Index MAPI=MAPI96   HLP
+:Index MaskedEdit=MASKED96 HLP
+:Index MultiMedia/MCI=MMEDIA96 HLP
+:Index Chart=MSCHRT96.HLP
+:Index SSTab=MSTAB96.HLP
+:Index Microsoft Winsock Control=MSWINSCK.HLP
+:Index PicClip=PICCLP96 HLP
+:Index Property Page Wizard=PROPPGWZ.HLP
+:Index RDO=RDO96.HLP
+:Index ReadMe=README.HLP
+:Index Repository=REPVB.HLP
+:Index RichTextBox=RTFBOX96 HLP
+:Index Samples=SAMPLES.HLP
+:Index Setup Wizard=SETUPWIZ.HLP
+:Index VSS=SSUSVB.HLP
+:Index SysInfo=SYSINFO.HLP
+:Index VB5=VB5.HLP
+:Index VBA=VBENLR3.HLP
+:Index Visual Basic Extensibility=VB5EXT.HLP
+:Index Wizard Manager=WIZDMNGR.HLP
+1 Component Manager Overview=cmhowMicrosoftComponentManager
+1 Component Manager How-To
+2 Adding Components to a Component Catalog=cmhowAddingComponentsToAComponentCatalog
+2 Adding Information About Components=cmhowAddingInformationAboutComponents
+2 Customizing a Component Catalog=cmhowCustomizingAComponentCatalog
+2 Finding and Sorting Components=cmhowFindingAndSortingComponents
+2 Overview of the Microsoft Component Manager=cmhowMicrosoftComponentManager
+2 Switching Between Local and Remote Execution=cmhowInstallingComponents
+2 Tagging Components=cmhowTaggingComponents
+1 Component Manager Interface
+2 Component Manager Dialog Boxes
+3 About Dialog Box=cmrgnAbout
+3 Add Component Catalog Dialog Box=cmrgnAddComponentCatalog
+3 Add ActiveX Components Dialog Box=cmrgnAddOleComponents
+3 Associated Files Tab, Properties Dialog Box=cmrgnAssociatedFilesTab
+3 Catalog Properties Dialog Boxcmrgn=CatalogProperties
+3 Component Manager Toolbar=cmrgnToolbar
+3 Create New Catalog Dialog Box=cmrgnCreateNewCatalog
+3 Description Tab, Properties Dialog Box=cmrgnDescriptionTab
+3 Details Tab, Properties Dialog Box=cmrgnDetailsTab
+3 Export Component Catalog Dialog Box=cmrgnExportCatalogItems
+3 Install Dialog Box=cmrgnInstall
+3 Property Tags Tab, Properties Dialog Box=cmrgnPropertyTagsTab
+3 User Options Dialog Box=cmrgnUserOptions
+2 Component Manager Menus
+3 File Menu
+4 Exit Command=cmcmdExit
+3 View Menu
+4 Layout=cmcmdLayout
+4 Details Pane Only=cmcmdResultPaneOnly
+4 Catalog & Details Pane=cmcmdScopeandResult
+4 Criteria & Details Pane=cmcmdCriteriaAndResult
+4 All Panes=cmcmdAllPanes
+4 Object Desciption Pane=vbcmdObjectDescriptionPaneViewMenu
+4 Up One Level=vbcmdUpOneLevelViewMenu
+4 User Options=cmcmdUserOptions
+3 Catalog Menu
+4 Add Catalog=cmcmdAddCatalog
+4 Remove Catalog=cmcmdRemoveCatalog
+4 Add ActiveX Component=cmcmdAddComponent
+4 Export Catalog Items=cmcmdExportCatalogItems
+4 Switch to Local/Remote Catalog=cmcmdUseLocalCatalog
+4 Release Admin Lock=cmcmdUseLocalCatalog
+4 Properties=cmcmdPropertiesCatalog
+3 Search Menu
+4 Clear Search Criteria=cmcmdClearSearchCriteria
+4 Search Nowcm=cmdSearchNow
+3 Details Menu
+4 Properties=cmcmdPropertiesResults
+4 Install=cmcmdInstall
+4 Copy=cmcmdCopy
+4 Delete=cmcmdDelete
+3 Help Menu
+4 Contents=cmcmdContents
+4 About=cmcmdAbout
+1 Application Performance Explorer
+2 Application Performance Explorer=vbdlgAPE
+2 Asynchronous Tab (Application Performance Explorer)=vbdlgAsynchronousTabAPE
+2 Activities Tab (Application Performance Explorer)=vbdlgActivitiesTabPE
+2 Clients Tab (Application Performance Explorer)=vbdlgClientsTabAPE
+2 Connection Tab (Application Performance Explorer)=vbdlgConnectionTabAPE
+2 Logger Tab (Application Performance Explorer)=vbdlgLoggerTabAPE
+2 Synchronous Tab (Application Performance Explorer)=vbdlgSynchronousTabApplicationPerformanceExplorer
+2 Workers Tab (Application Performance Explorer)=vbdlgWorkersTabAPE
+2 Application Performance Explorer Menus
+3 File Menu
+4 Save Profile Command (File Menu Application Performance Explorer)=vbcmdSaveProfileFileMenuPE
+4 Remove Profile Command (File Menu Application Performance Explorer)=vbcmdRemoveProfileFileAPE
+4 Exit Command (File Menu Application Performance Explorer)=vbcmdExitFileAPE
+3 Model Menu
+4 Asynchronous Command (Model Menu Application Performance Explorer)=vbcmdAsynchronousModelAPE
+4 Synchronous Command (Model Menu Application Performance Explorer)=vbcmdSynchronousModelAPE
+
+

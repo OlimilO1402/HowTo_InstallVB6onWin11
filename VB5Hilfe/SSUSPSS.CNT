@@ -1,0 +1,14 @@
+:Base SSUSPSS.HLP>main
+:Title Microsoft Developer Technical Support
+1 When You Have a Question
+2 When You Have a Question=PSSXWhenYouHaveaQuestion@SSUSPSS.HLP
+1 Product Support Within the United States and Canada
+2 Product Support Services Within the United States and Canada=PSSXProductSupportWithintheUnitedStatesandCanada@SSUSPSS.HLP
+2 Information Services=PSSXInformationServices@SSUSPSS.HLP
+4 Microsoft Knowlege Base (Web Site)=!EF("http://www.microsoft.com/kb/","",1);Exit()
+2 Standard Support=PSSXStandardSupport@SSUSPSS.HLP
+2 Priority Developer Support=PSSXPriorityDeveloperSupport@SSUSPSS.HLP
+2 Text Telephone=PSSXTextTelephone@SSUSPSS.HLP
+2 Other Microsoft Services=PSSXOtherMicrosoftServices@SSUSPSS.HLP
+1 Product Support Worldwide
+2 Product Support Worldwide=PSSXProductSupportWorldwide@SSUSPSS.HLP
